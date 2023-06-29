@@ -7,7 +7,8 @@
  - 개발도구: WebStorm
  - 버전관리: Github
  - 개발기술/프레임워크:
-     - Nest Js 10.0.0
+   - Node.js 18.16.1
+   - Nest Js 10.0.0
   
 ## API 설계서
 https://www.notion.so/53421a94a65645c085f050e1a21bf068?v=86e0d13418b7475eba57c5a828c7ff4b
