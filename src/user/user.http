@@ -1,0 +1,21 @@
+### 회원가입 테스트
+POST http://localhost:8000/user/signup
+Content-Type: application/json
+
+{
+  "email": "nodejs@gmail.com",
+  "password": "12341234",
+  "name": "Nest",
+  "birth": "9000111",
+  "phone": "010-1234-1112",
+  "addr": "서울특별시 종로구 창의문로2길"
+}
+
+### 로그인 테스트
+POST http://localhost:8000/user/login
+Content-Type: application/json
+
+{
+  "email": "nestJs@gmail.com",
+  "password": "12341234"
+}
